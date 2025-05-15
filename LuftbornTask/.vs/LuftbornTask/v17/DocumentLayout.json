@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214908_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250515214908_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214558_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250515214558_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673BB90B-8720-4A74-AEB6-DCEAEBC043D8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\luftborntask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\luftborntask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF841846-81C5-474C-BCB1-52A991C02FC9}|Application\\Application.csproj|solutionrelative:application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655EF3B-5DE2-476A-B680-6CEE9AB9F542}|Core\\Core.csproj|solutionrelative:core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|c:\\users\\ahmed.fatouh\\source\\repos\\luftborntask\\luftborntask\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0700DF98-C81B-488A-B9F9-DD3407B59D71}|LuftbornTask\\LuftbornTask.csproj|solutionrelative:luftborntask\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250515214908_SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214908_SeedProducts.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250515214908_SeedProducts.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214908_SeedProducts.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250515214908_SeedProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:49:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250515214558_SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214558_SeedProducts.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250515214558_SeedProducts.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Migrations\\20250515214558_SeedProducts.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250515214558_SeedProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:45:58.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Program.cs",
+              "RelativeDocumentMoniker": "LuftbornTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Program.cs",
+              "RelativeToolTip": "LuftbornTask\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwEEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:40:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:01:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:04:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:19:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:05:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:08:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:03:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\appsettings.json",
+              "RelativeDocumentMoniker": "LuftbornTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\appsettings.json",
+              "RelativeToolTip": "LuftbornTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T11:47:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "LuftbornTask\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "LuftbornTask\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:13:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LuftbornTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\LuftbornTask.csproj",
+              "RelativeDocumentMoniker": "LuftbornTask\\LuftbornTask.csproj",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\LuftbornTask.csproj",
+              "RelativeToolTip": "LuftbornTask\\LuftbornTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T12:17:27.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:02:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:35:00.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LuftbornTask\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LuftbornTask\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:11:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:17:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:00:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "LuftbornTask\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "LuftbornTask\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:50:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LuftbornTask\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Fatouh\\source\\repos\\LuftbornTask\\LuftbornTask\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "LuftbornTask\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:59:39.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
